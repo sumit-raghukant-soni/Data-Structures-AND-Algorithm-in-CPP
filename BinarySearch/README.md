@@ -1,0 +1,1 @@
+# Binary Search related programs, which extends our logic that the binary search is applicable in many ways to solve the problems.
