@@ -1,5 +1,7 @@
 # 1D and 2D array related programs
 
+REFERENCES (https://www.javatpoint.com/difference-between-1d-and-2d-array-in-c)(https://en.wikipedia.org/wiki/Array_(data_structure))
+
 An array is a data structure consisting of a collection of elements, of same memory size, each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula.
 
 ## Difference between 1D and 2D array in C
